@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bcrypt', '~> 3.1.7'
 
 gem 'rack-cors'
-gem "aws-sdk-s3", require: false
+# gem "aws-sdk-s3", require: false
 gem 'faker'
 gem 'dotenv-rails'
 
