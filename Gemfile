@@ -24,6 +24,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'rack-cors'
 # gem "aws-sdk-s3", require: false
+gem 'jwt'
 gem 'faker'
 gem 'dotenv-rails'
 
